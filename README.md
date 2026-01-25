@@ -25,4 +25,4 @@ and other factors commonly associated with bestselling titles.
 - Price does not strongly influence user ratings.
 
 ## Status
-In progress.
+Completed.
