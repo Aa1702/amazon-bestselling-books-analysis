@@ -18,5 +18,11 @@ and other factors commonly associated with bestselling titles.
 - `/scripts` — data processing and analysis code
 - `/datasets` — source dataset(s)
 
+## Key Findings
+- Non-fiction books appear more frequently among bestsellers.
+- Fiction books receive higher review counts on average.
+- User ratings remain consistently high across price ranges.
+- Price does not strongly influence user ratings.
+
 ## Status
 In progress.
