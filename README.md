@@ -1,28 +1,46 @@
-# amazon-bestselling-books-analysis
+# 📚 Amazon Bestselling Books Analysis
 
-# Amazon Bestselling Books Analysis
+A data-driven exploration of Amazon’s bestselling books to uncover patterns in  
+📊 pricing, ⭐ ratings, 🗂️ genres, and 📈 customer engagement.
 
-This project analyzes Amazon bestselling books data using Python.
+Built using Python and exploratory data analysis techniques.
+> Turning raw book data into readable insights.
 
-The objective is to explore patterns in book categories, pricing, ratings,
-and other factors commonly associated with bestselling titles.
+## 📊 Visual Insights
 
-## Tools
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
+### Reviews Distribution by Genre
+[![Reviews vs Genre](https://raw.githubusercontent.com/Aa1702/amazon-bestselling-books-analysis/main/assets/reviews_vs_genre.png)](https://github.com/Aa1702/amazon-bestselling-books-analysis/blob/main/assets/reviews_vs_genre.png)
 
-## Project Structure
-- `/notebooks` — exploratory data analysis
-- `/scripts` — data processing and analysis code
-- `/datasets` — source dataset(s)
+### Price vs User Rating
+[![Price vs Rating](https://raw.githubusercontent.com/Aa1702/amazon-bestselling-books-analysis/main/assets/price_vs_rating.png)](https://github.com/Aa1702/amazon-bestselling-books-analysis/blob/main/assets/price_vs_rating.png)
 
-## Key Findings
-- Non-fiction books appear more frequently among bestsellers.
-- Fiction books receive higher review counts on average.
-- User ratings remain consistently high across price ranges.
-- Price does not strongly influence user ratings.
+## 🔍 Key Findings
 
-## Status
-Completed.
+- 📘 Non-fiction books appear more frequently among Amazon bestsellers  
+- 📕 Fiction books receive higher average review counts  
+- 💰 Book price shows weak correlation with user ratings  
+- ⭐ High ratings are consistent across most price ranges
+
+## 🛠️ Tools & Technologies
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook
+
+![Python](https://img.shields.io/badge/Python-EDA-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+
+## 📂 Project Structure
+
+- notebooks/ — exploratory data analysis  
+- assets/ — saved visualisations  
+- datasets/ — source data  
+- README.md — project overview
+
+## ✅ Project Status
+Completed — Exploratory Data Analysis
+
