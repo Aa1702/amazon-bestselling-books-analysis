@@ -1,5 +1,5 @@
 # 📚 Amazon Bestselling Books Analysis
-(![Uploading amazon-bestselling-books-analysis.png…]()
+![amazon-bestselling-books-analysis.png]
 
 A data-driven exploration of Amazon’s bestselling books to uncover patterns in  
 📊 pricing, ⭐ ratings, 🗂️ genres, and 📈 customer engagement.
