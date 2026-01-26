@@ -1,5 +1,5 @@
 # 📚 Amazon Bestselling Books Analysis
-![amazon-bestselling-books-analysis.png]
+![Amazon Bestselling Books Analysis Theme](assets/amazon-bestselling-books-analysis.png)
 
 A data-driven exploration of Amazon’s bestselling books to uncover patterns in  
 📊 pricing, ⭐ ratings, 🗂️ genres, and 📈 customer engagement.
@@ -14,7 +14,6 @@ Built using Python and exploratory data analysis techniques.
 
 ### Price vs User Rating
 ![Price vs Rating](assets/price_vs_rating.png)
-
 
 
 ## 🔍 Key Findings
