@@ -9,10 +9,10 @@ Built using Python and exploratory data analysis techniques.
 ## 📊 Visual Insights
 
 ### Reviews Distribution by Genre
-![Reviews vs Genre](assets/reviews_vs_genre.png)
+[![Reviews vs Genre](https://raw.githubusercontent.com/Aa1702/amazon-bestselling-books-analysis/main/assets/reviews_vs_genre.png)](https://github.com/Aa1702/amazon-bestselling-books-analysis/blob/main/assets/reviews_vs_genre.png)
 
 ### Price vs User Rating
-![Price vs Rating](assets/price_vs_rating.png)
+[![Price vs Rating](https://raw.githubusercontent.com/Aa1702/amazon-bestselling-books-analysis/main/assets/price_vs_rating.png)](https://github.com/Aa1702/amazon-bestselling-books-analysis/blob/main/assets/price_vs_rating.png)
 
 ## 🔍 Key Findings
 
