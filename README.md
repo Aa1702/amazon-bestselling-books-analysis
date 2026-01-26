@@ -9,9 +9,11 @@ Built using Python and exploratory data analysis techniques.
 ## 📊 Visual Insights
 
 ### Reviews Distribution by Genre
-
+![Reviews vs Genre](assets/reviews_vs_genre.png)
 
 ### Price vs User Rating
+![Price vs Rating](assets/price_vs_rating.png)
+
 
 
 ## 🔍 Key Findings
