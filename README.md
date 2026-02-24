@@ -65,7 +65,21 @@ The analysis uncovered distinct market behaviours between genres:
 
 ---
 
-## ⚠️ 7. Caveats and Assumptions
+## 7. 📂 Project Structure
+
+- notebooks/ — exploratory data analysis  
+- assets/ — saved visualisations  
+- datasets/ — source data  
+- README.md — project overview
+
+---
+
+## ⚠️ 8. Caveats and Assumptions
 * **Timeframe**: The data represents a specific historical window; current trends may vary with the rise of digital-only "Kindle Unlimited" titles.
 * **Market Bias**: The analysis is restricted to "Bestsellers" (top tier); findings may not apply to new or niche releases.
 
+---
+
+## 9. ✅ Project Status
+Completed — Exploratory Data Analysis
+---
