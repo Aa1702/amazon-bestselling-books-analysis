@@ -66,11 +66,12 @@ The analysis uncovered distinct market behaviours between genres:
 ---
 
 ## 7. 📂 Project Structure
-
+``` bash
 - notebooks/ — exploratory data analysis  
 - assets/ — saved visualisations  
 - datasets/ — source data  
 - README.md — project overview
+```
 
 ---
 
